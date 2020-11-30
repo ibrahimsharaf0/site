@@ -1,3 +1,3 @@
 # ABOUT
 
-Repository for My blog and showing my Projects.
+Repository for my blog and showing my Projects.
